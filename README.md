@@ -2,15 +2,6 @@
 
 A simple replica of Google search engine implementation using React and Vite.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 This project is a basic Google search engine created with React and Vite. It utilizes the Google Search API to fetch search results and display them in a user-friendly interface.
@@ -35,4 +26,12 @@ This project is a basic Google search engine created with React and Vite. It uti
 
    ```bash
    npm install
+   ```
+
+### Start the development server
+
+3. Install dependencies:
+
+   ```bash
+   npm run dev
    ```
