@@ -2,6 +2,12 @@
 
 A simple replica of Google search engine implementation using React and Vite.
 
+## Tech stacks
+
+`React`
+`Javascript`
+`Tailwindcss`
+
 ## Overview
 
 This project is a basic Google search engine created with React and Vite. It utilizes the Google Search API to fetch search results and display them in a user-friendly interface.
