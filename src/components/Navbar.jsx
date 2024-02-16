@@ -15,7 +15,7 @@ const Navbar = () => {
         </Link>
         <Search />
         <div className="flex space-x-7 items-center">
-          <p>by Shubham</p>
+          {/* <p>by Shubham</p> */}
           <img
             src="https://lh3.googleusercontent.com/ogw/ANLem4bC4qb4UqdHt0Jr5mlTRIZj-j9HuzceW_uYBM_P3Q=s32-c-mo"
             alt="profile-img"
